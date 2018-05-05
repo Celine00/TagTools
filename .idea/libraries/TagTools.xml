@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TagTools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TagTools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

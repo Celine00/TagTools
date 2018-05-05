@@ -1,0 +1,2 @@
+samples/image/temp2.jpg 1624 1254 2434 1549 2015 0 0
+samples/image/temp2.jpg 214 1154 779 1364 2014 0 0

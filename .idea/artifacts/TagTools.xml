@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TagTools">
+    <output-path>$PROJECT_DIR$/out/artifacts/TagTools</output-path>
+    <root id="archive" name="TagTools.jar">
+      <element id="module-output" name="TagTools-master-v2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
