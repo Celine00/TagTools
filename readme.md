@@ -7,7 +7,7 @@
 ```shell
 #shell 打开照片标注程序
 #参数分别代表：图片文件夹 输出文件夹 地标label文件 fast-rcnn的标注结果
-samples/image samples/output samples/landmark_list.txt samples/reference
+java -jar TagTools.jar samples/image samples/output samples/landmark_list.txt samples/reference
 
 #C++调用系统命令
 system(command)
